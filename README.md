@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**G0ku1-0/G0ku1-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Gokul@github:~$ whoami
+Hi, I'm Gokul
+> Gokul@github:~$ cat about_me.txt
+Passionate developer exploring:
+ - Python
+ - Flutter
+ - Lua
+ - C Programming
+ - Web: HTML, CSS, JavaScript
+ - Tools: Git, Firebase, Android
+> Gokul@github:~$ top -n 1
+GitHub Stats:
+-------------------------
+- Contributions: active
+- Projects: in progress
+- Growth: exponential
+> Gokul@github:~$ curl -s contact.me
+Email : gokulas924@gmail.com
+LinkedIn : https://www.linkedin.com/in/gokul-a-s-6046a1297
+> Gokul@github:~$ _
